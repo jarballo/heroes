@@ -7,13 +7,15 @@ HEROES is a standadards-based classroom curriculum supplement and online platfor
 ##Heroes Project Goals
 Our team's primary goals are to give the existing website a more modern look, to improve the interface with users to make the experience more intuitive and easier to navigate and to allow interfacing of the website with PayPal, Facebook, LinkeIn and similar social media sites. We plan on achieving these goals by creating new content and improving already existing content for the heroesforstudents.org.
 #Project Stakeholders
-Heroes for Students' co-founders are Richie Ressel and Dr. Chris Reina. 
+##Project Owners
+* Richie Ressel
+* Dr. Chris Reina
 
 ###Development Team
-*Charles Brown
-*Ed Sharp
-*Tom Sharp
-*William Sugihara
-*Arick Hanna
+* Charles Brown
+* Ed Sharp
+* Tom Sharp
+* William Sugihara
+* Arick Hanna
 		
 		
