@@ -1,4 +1,4 @@
-# heroes
+# Heroes
 HEROES is a standadards-based classroom curriculum supplement and online platform for netowrking K-12 teachers to community role models.
 		The goal is to help educators revive economic success. The organization engages students in their academic content by connecting them to community guest speakers. 
 		Each Heroes interaction	has three components: 1.)Exposing students to a diversity of careers, 2.)engaging students in the real world application of their academic content
