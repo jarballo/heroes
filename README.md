@@ -6,8 +6,8 @@ HEROES is a standadards-based classroom curriculum supplement and online platfor
 		profile indicating their professional experiences. A teacher and community role model are then matched based on what would best compliment student learning.
 ##Heroes Project Goals
 Our team's primary goals are to give the existing website a more modern look, to improve the interface with users to make the experience more intuitive and easier to navigate and to allow interfacing of the website with PayPal, Facebook, LinkeIn and similar social media sites. We plan on achieving these goals by creating new content and improving already existing content for the heroesforstudents.org.
-#Project Stakeholders
-##Project Owners
+##Project Stakeholders
+###Project Owners
 * Richie Ressel
 * Dr. Chris Reina
 
