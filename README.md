@@ -34,3 +34,12 @@ Our team's primary goals are to give the existing website a more modern look, to
 * Change the line break type.
 * Choose one of 5 buttons : Reset, Save, Save As, OK and Cancel.
 * Step 6: 
+
+
+
+##Help wanted with....
+1. JQuery - Our website has a vast amount of JQuery that we need help with understanding.
+2. LinkedIn - We would like to integrate linkedIn with our login feature.
+3. TimeTrade - We would like to integrate TimeTrade when scheduling a hero. 
+
+###(https://waffle.io/asu-cis-capstone/heroes)
