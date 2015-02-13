@@ -21,5 +21,16 @@ Our team's primary goals are to give the existing website a more modern look, to
 * Tom Sharp
 * William Sugihara
 * Arick Hanna
-		
-		
+	
+##How to modify Web Hosting Code Files on Go Daddy Account
+
+* Step 1: Logon to GoDaddy.com account with username and password.
+* Step 2: At 'My Account' page under the 'Products' tab click on the green 'Manage' button that is to the right of the 'Web Hosting' section.
+* Step 3: At the next page there will be another 'Manage' button. Press the Manage button.
+* Step 4: At the 'Website & Domains' page chose a website/domain section and click on the 'File Manager' link or the 'Open Site' button located in the lower left quadrant of that domain's section.  
+* Step 5: There are to ways to access the Code Editor- 1.)Hover over the section of the file you want to access and to the right of the section (but on the left side of the access date) will be a circle with an arrow pointing down. Click on the arrow and a menu will appear. The first selection from the menu is 'Edit in Code Editor.' Click on this selection and the page with the code will open and you will be able to make changes in the code. To SAVE the code you modified click on the green 'OK' button at the bottom of the window. --------- 2.)Click on the link of the section of the file you want to edit and a page will open showing the code for that file. You CANNOT modify the file from this page but you can view it. There will be a button underneath the window on the right side that says 'Edit in Text Editor.' Click on this button and a similar window will open where you can edit the code. At the bottom of this window there are several options to choose from: 
+* View the code in a different encoding.
+* Save the file in a different encoding.
+* Change the line break type.
+* Choose one of 5 buttons : Reset, Save, Save As, OK and Cancel.
+* Step 6: 
