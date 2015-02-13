@@ -1,0 +1,13 @@
+/* Footer */
+#footer {
+	font-size:			80%;
+	font-family:		Calibri;
+	font-style:			italic;
+	text-align:			center;
+	border-top:			3px solid black;
+	margin-top:			5px;
+	clear:				both;
+	position:			relative;
+	margin-top:			50px;
+	padding-bottom:		10px;
+}
