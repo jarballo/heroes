@@ -1,0 +1,44 @@
+/* Register Menu */
+#registermenu {
+	position:			fixed;
+	top:				20px;
+	left:				30px;
+	text-align:			right;
+}
+
+#registermenu form {
+	margin-bottom:		15px;
+	text-align:			right;
+}
+
+#registermenu input {
+	border:				4px outset orange;
+	box-shadow:			-3px 3px 5px 1px black;
+	font-weight:		bold;
+	font-size:			12pt;
+	background:			
+		/* Browsers incapable of gradients */	
+						#ed9017;
+	background:
+		/* IE 10 */		-ms-linear-gradient(top, #f6e6b4 0%, #ed9017 100%);
+	background: 		
+		/* Chrome */	-webkit-gradient(linear, right top, right bottom, color-stop(0%,#f6e6b4), color-stop(100%,#ed9017));
+	background:
+		/* Firefox */	-moz-linear-gradient(top, #f6e6b4 0%, #ed9017 100%);
+}
+
+#registermenu2 input {
+	margin-bottom:		10px;
+	border:				4px outset orange;
+	font-weight:		bold;
+	font-size:			12pt;
+	background:			
+		/* Browsers incapable of gradients */	
+						#ed9017;
+	background:
+		/* IE 10 */		-ms-linear-gradient(top, #f6e6b4 0%, #ed9017 100%);
+	background: 		
+		/* Chrome */	-webkit-gradient(linear, right top, right bottom, color-stop(0%,#f6e6b4), color-stop(100%,#ed9017));
+	background:
+		/* Firefox */	-moz-linear-gradient(top, #f6e6b4 0%, #ed9017 100%);
+}
