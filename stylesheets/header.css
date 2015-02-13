@@ -1,0 +1,12 @@
+/* Header */
+
+#header {
+	background:			lightblue;
+	text-align:			right;
+	border-bottom:		3px solid black;
+}
+
+#header img {
+	width:				280px;
+	height:				auto;
+}
