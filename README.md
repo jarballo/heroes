@@ -1,3 +1,5 @@
+[![Waffle.io Task Board](https://badge.waffle.io/asu-cis-capstone/course-info.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/heroes)
+
 # About Heroes For Students
 HEROES is a standadards-based classroom curriculum supplement and online platform for netowrking K-12 teachers to community role models.
 		The goal is to help educators revive economic success. The organization engages students in their academic content by connecting them to community guest speakers. 
@@ -21,8 +23,6 @@ Our team's primary goals are to give the existing website a more modern look, to
 * Tom Sharp
 * William Sugihara
 * Arick Hanna
-
-[![Waffle.io Task Board](https://badge.waffle.io/asu-cis-capstone/course-info.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/heroes)
 
 	
 ##How to modify Web Hosting Code Files on Go Daddy Account
