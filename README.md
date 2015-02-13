@@ -21,6 +21,10 @@ Our team's primary goals are to give the existing website a more modern look, to
 * Tom Sharp
 * William Sugihara
 * Arick Hanna
+
+###[Waffle.io Task Board]
+(https://badge.waffle.io/asu-cis-capstone/course-info.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/heroes)
+
 	
 ##How to modify Web Hosting Code Files on Go Daddy Account
 
@@ -43,4 +47,4 @@ Our team's primary goals are to give the existing website a more modern look, to
 2. LinkedIn - We would like to integrate linkedIn with our login feature.
 3. TimeTrade - We would like to integrate TimeTrade when scheduling a hero. 
 
-###[Waffle.io Task Board](https://waffle.io/asu-cis-capstone/heroes)
+
