@@ -42,4 +42,4 @@ Our team's primary goals are to give the existing website a more modern look, to
 2. LinkedIn - We would like to integrate linkedIn with our login feature.
 3. TimeTrade - We would like to integrate TimeTrade when scheduling a hero. 
 
-###(https://waffle.io/asu-cis-capstone/heroes)
+###[Waffle.io Task Board](https://waffle.io/asu-cis-capstone/heroes)
