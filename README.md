@@ -1,12 +1,13 @@
 [![Waffle.io Task Board](https://badge.waffle.io/asu-cis-capstone/course-info.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/heroes)
 
 # About Heroes For Students
-HEROES is a standadards-based classroom curriculum supplement and online platform for netowrking K-12 teachers to community role models.
+HEROES is a standards-based classroom curriculum supplement and online platform for networking K-12 teachers to community role models.
 		The goal is to help educators revive economic success. The organization engages students in their academic content by connecting them to community guest speakers. 
 Each Heroes interaction	has three components: 
-#####1. Exposing students to a diversity of careers.
-#####2. Engaging students in the real world application of their academic content.
-#####3. Empowering students to set and reach ambitious goals. 
+
+1. Exposing students to a diversity of careers.
+2. Engaging students in the real world application of their academic content.
+3. Empowering students to set and reach ambitious goals. 
 
 A teacher creates a profile based on the topic they are teaching. A community role model creates a 
 		profile indicating their professional experiences. A teacher and community role model are then matched based on what would best compliment student learning.
