@@ -40,6 +40,30 @@ Our team's primary goals are to give the existing website a more modern look, to
 * **Choose one of 5 buttons : Reset, Save, Save As, OK and Cancel.**
 
 
+##How to use Heroes for Students website
+
+This website is composed of several files and folders, programs, software and services. The follow are what are included:
+
+###html files
+###php files
+###css files
+###images
+###GoDaddy.com web hosting and services
+###SQL Scripting
+###MyPhp
+###social website interface (i.e. Twitter, Facebook, etc)
+
+##Steps to implement website
+
+You must do the following in order to set up this website:
+
+* Create an account and add a domain with a web hosting site similar to GoDaddy.
+* Go to the management section for Web Hosting on GoDaddy and set up folders to store files in (i.e. images, stylesheets, etc). Logon to your account>click the green 'Manage' button to the right side of the 'Web Hosting' section of the Products tab>click another green Manage button> click "Websites & Domains" link in the top left of the navbar(if it isn't already selected>click 'File Manager'  link in the bottom left of the domain box>create a new folder or upload files.
+* Store index(html), css and images in apprpriate folders under the management section of the Web Hosting for GoDaddy.
+* Create a database by donig the following: Logon to your account>click the green 'Manage' button to the right side of the 'Web Hosting' section of the Products tab>click another green Manage button> click "Websites & Domains" link in the top left of the navbar(if it isn't already selected>click 'Databases' link in the bottom right of the domain box>Add a new database.
+* To add data to the database click on the 'Webadmin' link to the right or the listed domain. A phpAdmin page will appear and you can add to or create a database from here.
+
+
 
 ##Help wanted with....
 1. JQuery - Our website has a vast amount of JQuery that we need help with understanding.
