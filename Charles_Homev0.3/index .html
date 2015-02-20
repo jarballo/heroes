@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+
+<!--
+TALK SHOP!
+-->
+
+<?php
+    
+    date_default_timezone_set('America/Phoenix');
+    
+    $timezone = date_default_timezone_get();
+    
+    echo "The Current Server Timezone is: " . $timezone;
+    
+    $date = date('m/d/y H:i:s a', time());
+    
+    echo "The Current Time is: " . $date;
+    
+    
+    
+    
+    
+    
+    
+    
+    ?>
+
+<html lang="en">
+  	
+  <head>
+  
+    <!-- Meta tag -->
+	<meta name="robots" content="noindex, nofollow" />
+    <meta charset="utf-8" />
+	
+	<!-- Link tag for CSS -->
+    <link type="text/css" rel="stylesheet" href="herostyle.css" />
+
+	<!-- Link tag for JavaScript -->
+		<!-- <script type="text/javascript" src=""></script> -->
+	
+	<!-- Link tag for Google Web Fonts -->
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Oswald:400,300|Roboto+Condensed:400,300' rel='stylesheet' type='text/css'>
+	
+	<!-- Link tag for favicon -->
+		<!-- <link rel="icon" href="" type="image/ico" /> -->
+
+    <!-- Web Page Title -->
+    <title>Heroes for Students</title>
+
+  </head>
+
+  <body>
+	
+	<div id="title">
+		<img src="images/Logo2.jpg" alt="Heroes for Students"/>
+	</div>
+			
+  
+	<div id="topBar">
+		<div id="donate">
+			<div id="donateText">DONATE</div>
+		</div>
+		<div id="home">
+			<div id="homeText">HOME</div>
+		</div>
+		<div id="whatwedo">
+			<div id="whatwedoText">WHAT WE DO</div>
+		</div>
+		<div id="ourorg">
+			<div id="ourorgText">OUR ORGANIZATION</div>
+		</div>
+		<div id="contactus">
+			<div id="contactusText">CONTACT US</div>
+		</div>
+		<div id="login">
+			<div id="loginText">LOGIN</div>
+		</div>
+		<div id="register">
+			<div id="registerText">REGISTER</div>
+		</div>
+	</div>
+	
+	<div id="teacherButton">
+		<div id="teacher">Register as a Teacher!</div>
+	</div>
+	
+	<div id="heroButton">
+		<div id="hero">Register as a Hero!</div>
+	</div>
+	
+	<div id="slideshow">
+			<img src="images/classroom1.jpg" />
+		</div>
+		
+		<div id="footer">
+			<div id="footerText">&copy;2015 HeroesForStudents</div>
+			<div id="socialMedia">
+				<a href="https://www.facebook.com/HEROESforStudents" onclick="window.open(this.href); return false;">
+				<img src="images/facebook.png" alt="facebook" /></a>
+			</div>
+		</div>
+	
+  </body>
+
+</html>

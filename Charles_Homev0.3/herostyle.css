@@ -1,0 +1,288 @@
+/* font-family: 'Oswald', sans-serif;
+font-family: 'Roboto Condensed', sans-serif; */
+
+body, html{
+	position: relative;
+	width: 85%;
+	height: 100%;
+	margin: 0px;
+	padding-left: 8%;
+	
+	/* background-color: rgb(116, 194, 225); */
+}
+
+#topBar{
+	position: relative;
+	width: 100%;
+	height: 90px;
+	background-color: rgb(18, 75, 141);
+}
+
+#title{
+	position: absolute;
+	height: 90px;
+	width: auto;
+	margin-left: 10px;
+	z-index: 1;
+}
+
+#title img{
+	position: absolute;
+	height: 90px;
+	width: auto;
+	margin-left: 10px;
+	z-index: 10;
+}
+
+#donate{
+	position: absolute;
+	right: 0%;
+	margin-right: 920px;
+	margin-top: 40px;
+	height: 50px;
+	width: 80px;
+}
+
+#donate:hover{
+	cursor: pointer;
+	background-color: lightgreen;
+}
+
+#donateText{
+	color: white;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 15px;
+}
+
+#home{
+	position: absolute;
+	right: 0%;
+	margin-right: 730px;
+	margin-top: 40px;
+	height: 50px;
+	width: 80px;
+}
+
+#home:hover{
+	cursor: pointer;
+	background-color: rgb(116, 194, 225);
+}
+
+#homeText{
+	color: white;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 15px;
+}
+
+#whatwedo{
+	position: absolute;
+	right: 0%;
+	margin-right: 600px;
+	margin-top: 40px;
+	height: 50px;
+	width: 130px;
+}
+
+#whatwedo:hover{
+	cursor: pointer;
+	background-color: rgb(116, 194, 225);
+}
+
+#whatwedoText{
+	color: white;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 15px;
+}
+
+#ourorg{
+	position: absolute;
+	right: 0%;
+	margin-right: 410px;
+	margin-top: 40px;
+	height: 50px;
+	width: 190px;
+}
+
+#ourorg:hover{
+	cursor: pointer;
+	background-color: rgb(116, 194, 225);
+}
+
+#ourorgText{
+	color: white;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 15px;
+}
+
+#contactus{
+	position: absolute;
+	right: 0%;
+	margin-right: 280px;
+	margin-top: 40px;
+	height: 50px;
+	width: 130px;
+}
+
+#contactus:hover{
+	cursor: pointer;
+	background-color: rgb(116, 194, 225);
+}
+
+#contactusText{
+	color: white;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 15px;
+}
+
+#login{
+	position: absolute;
+	right: 0%;
+	margin-right: 120px;
+	margin-top: 40px;
+	height: 50px;
+	width: 90px;
+}
+
+#login:hover{
+	cursor: pointer;
+	background-color: rgb(116, 194, 225);
+}
+
+#loginText{
+	color: white;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 15px;
+}
+
+#register{
+	position: absolute;
+	right: 0%;
+	margin-right: 0px;
+	margin-top: 40px;
+	width: 120px;
+	height: 50px;
+}
+
+#register:hover{
+	cursor: pointer;
+	background-color: rgb(116, 194, 225);
+}
+
+#registerText{
+	color: white;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 15px;
+}
+
+
+#blackBox{
+	z-index: 1;
+	position: absolute;
+	width: 820px;
+	height: 200px;
+	background-color: black;
+	opacity: .4;
+	margin-top: 150px;
+	margin-left: -410px;
+	left: 50%;
+}
+
+#teacherButton{
+	position: absolute;
+	margin-top: 10px;
+	width: 300px;
+	height: 100px;
+	border-radius: 50px;
+	right: 50%;
+	margin-right: 50px;
+	background-color: lightblue;
+	z-index: 2;
+}
+
+#teacherButton:hover{
+	cursor: pointer;
+	background-color: rgb(116, 194, 225);
+}
+
+#teacher{
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+	font-size: 25px;
+	margin-top: 35px;
+}
+
+#heroButton{
+	position: absolute;
+	margin-top: 10px;
+	width: 300px;
+	height: 100px;
+	border-radius: 50px;
+	left: 50%;
+	margin-left: 140px;
+	background-color: lightblue;
+	z-index: 2;
+}
+
+#heroButton:hover{
+	cursor: pointer;
+	background-color: rgb(116, 194, 225);
+}
+
+#hero{
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+	font-size: 25px;
+	margin-top: 35px;
+}
+
+#slideshow img{
+	width: 100%;
+	height:790px;
+	margin-top: 0px;
+	display: block;
+	/*opacity: ;*/
+}
+
+
+#socialMedia{
+	position: absolute;
+	width: auto;
+	height: 10px;
+	margin-top: 10px;
+	left: 50%;
+	border-radius: 10px;
+	text-align:	center;
+}
+
+#socialMedia img{
+	margin-top: 5px;
+	margin-left: 50px;
+	width: 30px;
+	height: 30px;
+	cursor: pointer;
+}
+
+#footer{
+	width: 100%;
+	height: 20px;
+	background-color: rgb(175, 182, 186);
+	text-align:	center;
+}
