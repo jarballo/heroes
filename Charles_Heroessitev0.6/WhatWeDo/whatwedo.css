@@ -6,6 +6,7 @@ html {
 body {
     width: auto%;
     margin: 0 10% 0 10%;
+	
 	color: gray;
 	font-family: wol_reg, segoe ui, helvetica neuve, sans-serif;
 	background-color: white;
@@ -24,45 +25,35 @@ body {
 
 #banner {
 	width: 100%;
-	height: 100px;
+	height: 130px;
+	line-height: 130px;
 	text-align: right;
 	background-color: white;
 }
 
 #banner img {
-	height: 100px;
+	height: 130px;
 	width: auto;
 	float: left;
 }
 
-.left { float: left;}
-
-.center {
-	padding-right: 200px;
-	height: 100px;
-	width:	auto;
- }
-
-.right {
+#banner a:link{
+	background-color: mediumspringgreen;
 	text-align: center;
 	text-decoration: none;
 	color: white;
-	position: relative;
-	padding-right: 0px;
-	float: right;
-} 
-.right img{
-float: right;
-height: auto;
+	padding: 22px;
+	margin: 0px;
 }
 
 #banner a:hover {
 	background-color: white;
+	border: 1px solid mediumspringgreen;
 	color: mediumspringgreen;
 }
 
 nav {
-	background-color: #124b8d;
+	background-color: lightskyblue;
 	margin: 0px;
 	padding: 0px;
 	line-height: 65px;
@@ -71,14 +62,8 @@ nav {
 	text-align: center;	
 }
 
-.time {
-	border-top:2px solid black;
-	float:	right;	
-	height: 65px;
-}
-
 ul {
-	list-style-image: url('images/schedule.png');
+	list-style: none;
 	text-align: center;
 	display: inline-block;
 	margin: 0px;
@@ -89,7 +74,6 @@ ul li {
 	display: table-cell;
 	text-align: center;
 }
-
 
 #slideShowImages {
 	margin: 0px;
@@ -111,12 +95,12 @@ nav a:link, a:visited {
 	text-align: center;
 	text-decoration: none;
 	color: white;
-	padding: 22px 30px 22px 30px;;
+	padding: 22px;
 	margin: 0px;	
 }
 
 ul li a:hover {
- background-color: #afb6ba;
+ background-color: white;
  color: lightskyblue;
 }
 
@@ -133,80 +117,22 @@ ul li a:hover {
 	background-color: white;
 }
 
+#animation {
+	width: 100%;
+	text-align: center;
+	
+}
+
 #main {
 	width: 100%;
 	text-align: left;
 	font-weight: 400;
+	line-height: 70%;
 }
 
-#animation {
-	text-align:	center;
-}
-
-#multi{
-	background: white;	
-	display: block;
-}
-
-#multi img{
-	float: left;
-	width: auto;
-	height: 430px;	
-}
-
-#multi2 img{
-	float: right;
-	width: auto;
-	height: 430px;
-}
-
-#whatwedo {
-	width: 70%;
-	text-align: left;
-	padding-left: 150px;
-	font-size:	13pt;
-}
-
-#whovideo{
-	text-align: center;
-}
-
-#content {
-	margin:				auto;
-	text-align:			center;
-	font-size:			13pt;
-	width:				80%;
-}
-
-#content a {
-	color:				lightblue;
-}
-
-
-table#founders {
-	text-align:			left;
-}
-
-.personinfo {
-	vertical-align:		top;
-	width:				80%;
-}
-
-.image {
-	padding-left:		50px;
-}
-
-.image img {
-	border:				thin solid white;
-}
 
 #footer {
 	margin: auto;
 	font-size: 60%;
 	text-align: center;
 }
-
-.getinvolved {
-	vertical-align:		top;
-	width:				80%;
-	text-align:			left;
